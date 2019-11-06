@@ -27,7 +27,7 @@
     "@nestjs/platform-socket.io": "^6.6.7",
     "@nestjs/websockets": "^6.6.7",
     "dotenv": "^8.1.0",
-    "mongoose": "^5.7.1",
+    "mongoose": "^5.7.5",
     "reflect-metadata": "0.1.13",
     "rimraf": "3.0.0",
     "rxjs": "6.5.2"
